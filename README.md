@@ -10,7 +10,7 @@ This quote was generated with the help of ChatGPT
 
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or just want to connect!
 
-<p><a href="https://linkedin.com/in/https://www.linkedin.com/in/my-grandin-024036221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/my-grandin-024036221/" height="20" width="20" /></a></p>
+<p><a href="https://linkedin.com/in/my-grandin-024036221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/my-grandin-024036221/" height="20" width="20" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
